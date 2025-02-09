@@ -1,0 +1,4 @@
+wwwroot\.well-known\apple-app-site-association
+wwwroot\.well-known\assetlinks.json
+wwwroot\videopage.html
+wwwroot\web.html

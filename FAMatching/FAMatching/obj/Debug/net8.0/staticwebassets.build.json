@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "+z0MiLfeeZvZcF+zZeeOQPngVUP/OH7Ie7H1hE5iz30=",
+  "Source": "FAMatching",
+  "BasePath": "_content/FAMatching",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FAMatching\\wwwroot",
+      "Source": "FAMatching",
+      "ContentRoot": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\",
+      "BasePath": "_content/FAMatching",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\apple-app-site-association",
+      "SourceId": "FAMatching",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\",
+      "BasePath": "_content/FAMatching",
+      "RelativePath": ".well-known/apple-app-site-association#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmd111cv9c",
+      "Integrity": "wj8jrvVg2We4ID6Cv/OId+CxZqtnlEGOOJnNj+8XMd4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.well-known\\apple-app-site-association"
+    },
+    {
+      "Identity": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\assetlinks.json",
+      "SourceId": "FAMatching",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\",
+      "BasePath": "_content/FAMatching",
+      "RelativePath": ".well-known/assetlinks#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8x7hlcr2k",
+      "Integrity": "CUnQ9cJdRKsagSl7zGW2O3h762Sxwyb/Z9UY7Dc3h+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.well-known\\assetlinks.json"
+    },
+    {
+      "Identity": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+      "SourceId": "FAMatching",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\",
+      "BasePath": "_content/FAMatching",
+      "RelativePath": "videopage#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qyjzb3q89b",
+      "Integrity": "Ljn+gcnhori1MLzDUydfGV1C2a+We40bSK5KWrltgHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videopage.html"
+    },
+    {
+      "Identity": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+      "SourceId": "FAMatching",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\",
+      "BasePath": "_content/FAMatching",
+      "RelativePath": "web#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdjav0opf6",
+      "Integrity": "ob/W7NUfN3VxFTpzQv3pgcEK4eJ18Qalc4NfOmGqQlY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\web.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": ".well-known/apple-app-site-association",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\apple-app-site-association",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wj8jrvVg2We4ID6Cv/OId+CxZqtnlEGOOJnNj+8XMd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 07:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wj8jrvVg2We4ID6Cv/OId+CxZqtnlEGOOJnNj+8XMd4="
+        }
+      ]
+    },
+    {
+      "Route": ".well-known/apple-app-site-association.mmd111cv9c",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\apple-app-site-association",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wj8jrvVg2We4ID6Cv/OId+CxZqtnlEGOOJnNj+8XMd4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 07:47:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmd111cv9c"
+        },
+        {
+          "Name": "label",
+          "Value": ".well-known/apple-app-site-association"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wj8jrvVg2We4ID6Cv/OId+CxZqtnlEGOOJnNj+8XMd4="
+        }
+      ]
+    },
+    {
+      "Route": ".well-known/assetlinks.json",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\assetlinks.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUnQ9cJdRKsagSl7zGW2O3h762Sxwyb/Z9UY7Dc3h+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 07:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CUnQ9cJdRKsagSl7zGW2O3h762Sxwyb/Z9UY7Dc3h+E="
+        }
+      ]
+    },
+    {
+      "Route": ".well-known/assetlinks.p8x7hlcr2k.json",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\assetlinks.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CUnQ9cJdRKsagSl7zGW2O3h762Sxwyb/Z9UY7Dc3h+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 07:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8x7hlcr2k"
+        },
+        {
+          "Name": "label",
+          "Value": ".well-known/assetlinks.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CUnQ9cJdRKsagSl7zGW2O3h762Sxwyb/Z9UY7Dc3h+E="
+        }
+      ]
+    },
+    {
+      "Route": "videopage.html",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ljn+gcnhori1MLzDUydfGV1C2a+We40bSK5KWrltgHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 09:37:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ljn+gcnhori1MLzDUydfGV1C2a+We40bSK5KWrltgHs="
+        }
+      ]
+    },
+    {
+      "Route": "videopage.qyjzb3q89b.html",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ljn+gcnhori1MLzDUydfGV1C2a+We40bSK5KWrltgHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 09:37:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qyjzb3q89b"
+        },
+        {
+          "Name": "label",
+          "Value": "videopage.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ljn+gcnhori1MLzDUydfGV1C2a+We40bSK5KWrltgHs="
+        }
+      ]
+    },
+    {
+      "Route": "web.html",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ob/W7NUfN3VxFTpzQv3pgcEK4eJ18Qalc4NfOmGqQlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 14:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ob/W7NUfN3VxFTpzQv3pgcEK4eJ18Qalc4NfOmGqQlY="
+        }
+      ]
+    },
+    {
+      "Route": "web.tdjav0opf6.html",
+      "AssetFile": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ob/W7NUfN3VxFTpzQv3pgcEK4eJ18Qalc4NfOmGqQlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 07 Feb 2025 14:51:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdjav0opf6"
+        },
+        {
+          "Name": "label",
+          "Value": "web.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ob/W7NUfN3VxFTpzQv3pgcEK4eJ18Qalc4NfOmGqQlY="
+        }
+      ]
+    }
+  ]
+}

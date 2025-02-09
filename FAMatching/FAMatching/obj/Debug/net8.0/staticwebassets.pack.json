@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\apple-app-site-association",
+      "PackagePath": "staticwebassets\\.well-known"
+    },
+    {
+      "Id": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\.well-known\\assetlinks.json",
+      "PackagePath": "staticwebassets\\.well-known\\assetlinks.json"
+    },
+    {
+      "Id": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+      "PackagePath": "staticwebassets\\videopage.html"
+    },
+    {
+      "Id": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+      "PackagePath": "staticwebassets\\web.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FAMatching.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FAMatching.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FAMatching.props",
+      "PackagePath": "build\\FAMatching.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FAMatching.props",
+      "PackagePath": "buildMultiTargeting\\FAMatching.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FAMatching.props",
+      "PackagePath": "buildTransitive\\FAMatching.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

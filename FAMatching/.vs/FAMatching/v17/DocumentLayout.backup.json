@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\wwwroot\\web.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\wwwroot\\web.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\wwwroot\\videopage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\wwwroot\\videopage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\controllers\\webrtcsignalingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\controllers\\webrtcsignalingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\controllers\\universallinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\controllers\\universallinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\controllers\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\controllers\\webrtchub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|c:\\users\\saowanee\\downloads\\famatching\\famatching\\famatching\\controllers\\webrtccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236BC150-0393-4083-8747-9856451C741B}|FAMatching\\FAMatching.csproj|solutionrelative:famatching\\controllers\\webrtccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebRtcController.cs",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcController.cs",
+              "RelativeDocumentMoniker": "FAMatching\\Controllers\\WebRtcController.cs",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcController.cs",
+              "RelativeToolTip": "FAMatching\\Controllers\\WebRtcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:09:46.246Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "web.html",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+              "RelativeDocumentMoniker": "FAMatching\\wwwroot\\web.html",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\web.html",
+              "RelativeToolTip": "FAMatching\\wwwroot\\web.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-06T03:46:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "videopage.html",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+              "RelativeDocumentMoniker": "FAMatching\\wwwroot\\videopage.html",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\wwwroot\\videopage.html",
+              "RelativeToolTip": "FAMatching\\wwwroot\\videopage.html",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-06T03:46:35.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebRtcSignalingController.cs",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcSignalingController.cs",
+              "RelativeDocumentMoniker": "FAMatching\\Controllers\\WebRtcSignalingController.cs",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcSignalingController.cs",
+              "RelativeToolTip": "FAMatching\\Controllers\\WebRtcSignalingController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:30:56.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebRtcHub.cs",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcHub.cs",
+              "RelativeDocumentMoniker": "FAMatching\\Controllers\\WebRtcHub.cs",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\WebRtcHub.cs",
+              "RelativeToolTip": "FAMatching\\Controllers\\WebRtcHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:47:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Program.cs",
+              "RelativeDocumentMoniker": "FAMatching\\Program.cs",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Program.cs",
+              "RelativeToolTip": "FAMatching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:54:38.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversalLinksController.cs",
+              "DocumentMoniker": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\UniversalLinksController.cs",
+              "RelativeDocumentMoniker": "FAMatching\\Controllers\\UniversalLinksController.cs",
+              "ToolTip": "C:\\Users\\saowanee\\Downloads\\FAMatching\\FAMatching\\FAMatching\\Controllers\\UniversalLinksController.cs",
+              "RelativeToolTip": "FAMatching\\Controllers\\UniversalLinksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:30:56.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
