@@ -1,6 +1,0 @@
-@FAMatching_HostAddress = http://localhost:5182
-
-GET {{FAMatching_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
